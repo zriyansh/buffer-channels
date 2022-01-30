@@ -1,7 +1,7 @@
 // to represent race condition, when stingy adds 10 and spendy substracts 10
 // at the same time
 
-package main
+package s
 
 import (
 	"fmt"
